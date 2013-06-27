@@ -15,17 +15,19 @@
  * Sencha Touch
 
 ### Pros/Cons
- * Pros
+ * _Pros_
     + Comprehensive front-end development solution
     + Class system, MVC framework, UI widgets, charts and graphs, cross browser support, build tools (Sencha Cmd / Sencha Architect / Eclipse Plugin)
     + Virtualized grids - only virtualized on the rows though
- * Cons
+ * _Cons_
     + High learning curve - with commercial vendor lock in!
     + Best if you (or your team) are quite comfortable with JavaScript first
     + Theming is a labor intensive process - themes were not easily portable until recently (4.2)
     + Comprehensive front-end development solution
     + Once you're in, you're all in
     + Difficult to integrate into existing applications - documentation centers on new implementations
+        + Running "sencha generate app" from the command line
+        + Tries to be a "single page app"; though the newer "workspace" concept seems to acknowledge multi-page sites
     + Does not play well with others, e.g. jQuery - source?
     + Bloat - "ext-all.js" is around 2 MB (!) minified
     + Requires discipline to configure builds properly to construct a minimal, single source file for an application
