@@ -1,3 +1,8 @@
+Ext JS
+-------------------
+
+A simple Ext JS 4.2.1 MVC application example.  Adapted from one of Sencha's older, non-MVC examples.  BYOEXTJS.  Not tested on versions lower than 4.2.1.
+
 ### What is Ext JS?
  * Commercial JavaScript-based app framework for rich internet applications
  * For more on the history, see [Wikipedia](http://en.wikipedia.org/wiki/Ext_JS)
@@ -15,11 +20,11 @@
  * Sencha Touch
 
 ### Pros/Cons
- * _Pros_
+ * __Pros__
     + Comprehensive front-end development solution
     + Class system, MVC framework, UI widgets, charts and graphs, cross browser support, build tools (Sencha Cmd / Sencha Architect / Eclipse Plugin)
     + Virtualized grids - only virtualized on the rows though
- * _Cons_
+ * __Cons__
     + High learning curve - with commercial vendor lock in!
     + Best if you (or your team) are quite comfortable with JavaScript first
     + Theming is a labor intensive process - themes were not easily portable until recently (4.2)
