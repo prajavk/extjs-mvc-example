@@ -1,7 +1,7 @@
-Ext JS
--------------------
+### Ext JS MVC Example
 
-A simple Ext JS 4.2.1 MVC application example.  Adapted from one of Sencha's older, non-MVC examples.  BYOEXTJS.  Not tested on versions lower than 4.2.1.
+A simple Ext JS 4.2.1 MVC application example.  Adapted from one of Sencha's older, non-MVC examples which shows a simple CRUD interface for employee management.  BYOEXTJS.  Not tested on versions lower than 4.2.1.
+Below are some notes on Ext JS for those new to the technology.
 
 ### What is Ext JS?
  * Commercial JavaScript-based app framework for rich internet applications
