@@ -33,7 +33,6 @@ Below are some notes on Ext JS for those new to the technology.
     + Difficult to integrate into existing applications - documentation centers on new implementations
         + Running "sencha generate app" from the command line
         + Tries to be a "single page app"; though the newer "workspace" concept seems to acknowledge multi-page sites
-    + Does not play well with others, e.g. jQuery - source?
     + Bloat - "ext-all.js" is around 2 MB (!) minified
     + Requires discipline to configure builds properly to construct a minimal, single source file for an application
     + Performance - While improving, still renders a LOT of DOM elements for simple widgets
